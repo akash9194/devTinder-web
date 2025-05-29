@@ -4,3 +4,19 @@
     - Install tailwind css
     - Install Daisy UI
     - Add Navbar component to App.jsx
+    - Create a Navbar.jsx separate component file
+    - Install react-router-dom package
+    - Create Browser router > Routes > Route = /Body > Route Children
+    - Create an outlet in Body.jsx file
+    - Create a footer
+    - Create a login page
+    - Install Axios
+    - Install CORS in backend => add middleware to app with configurations   origin: "http://localhost:5173",
+    credentials: true
+    - Whenever you are making an api call so pass withCredentials: true
+    - Install React Redux + @reduxjs/toolkit- https://redux-toolkit.js.org/introduction/getting-started
+    - configureStore =>  Provider => CreateSlice => add reducer to store
+    - Add redux devtools in chrome
+    - Login and see if your data is coming properly in the store
+    - Navbar should update as soon as user logs in
+    - Refactor our code to add constants file + create a components folder
