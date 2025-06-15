@@ -26,4 +26,5 @@
     - Get the feed and add the feed in the store
     - Build the user card on feed
     - Edit profile feature
-    - see all my connections
+    - New Page - see all my connections
+    - New Page - see all my connection requests
